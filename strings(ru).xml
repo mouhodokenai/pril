@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Соревнование</string>
+    <string name="coffee">Кофеек</string>
+    <string name="reset">Сброс</string>
+    <string name="tea">Чаёк</string>
+</resources>
